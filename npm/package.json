@@ -1,6 +1,6 @@
 {
   "name": "envm",
-  "version": "0.1.0",
+  "version": "0.0.1",
   "description": "Secure, Simple, Synchronized Environment Management",
   "bin": {
     "envm": "./bin/envm.js"
